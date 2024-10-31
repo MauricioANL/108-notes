@@ -1,0 +1,27 @@
+.admin{
+    background-color: aliceblue;
+    padding: 20px 0;
+}
+
+.admin h4 {
+    color:darkcyan;
+    text-align: center;
+}
+
+.admin .parent{
+    display: flex;
+}
+.admin .parent .product{
+    width: 550px;
+    border:1px solid #ededed;
+    background-color: white;
+    padding: 21px;
+}
+
+.admin .parent .coupons{
+    width: 420px;
+    border: 1px solid #ededed;
+    background-color: white;
+    padding: 12px;
+
+}

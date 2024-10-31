@@ -1,0 +1,12 @@
+/* @keyframe App-logo-spin{
+    from{
+        transform:
+    }
+    to{
+
+    }
+} */
+
+.page-contect{
+    height: calc(100vh - 144px);
+}
